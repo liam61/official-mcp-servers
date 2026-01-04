@@ -1,5 +1,5 @@
 {
-  "name": "@modelcontextprotocol/server-filesystem",
+  "name": "mcp-server-fs",
   "version": "0.6.4",
   "description": "MCP server for filesystem access",
   "license": "MIT",
@@ -9,7 +9,7 @@
   "bugs": "https://github.com/modelcontextprotocol/servers/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/modelcontextprotocol/servers.git"
+    "url": "https://github.com/liam61/official-mcp-servers.git"
   },
   "type": "module",
   "bin": {
